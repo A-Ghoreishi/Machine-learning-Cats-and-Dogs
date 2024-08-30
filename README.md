@@ -14,14 +14,23 @@ This project serves as a comprehensive exploration of the maching learning workf
 # How to run the code:
 To follow this project, please install the following dependencies:
   . JupyerLab
+  
   . Python 3.8+
+  
   . Examples of used Python packages
+  
     -Numpy
+    
     - Pandas
+    
     - sklearn
+    
     - OS
+    
     - PIL (Pillow)
+    
     -cv2 
+    
     -sklearn
+    
     -google colab drive
-    .....
